@@ -1,0 +1,14 @@
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess1.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess2.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess3.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess4.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess5.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess6.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess7.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess8.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess9.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess10.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess11.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess12.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess13.bmp
+E:\opencv\My OpenCV projects\3d_reconstrution\myCameraCalibration\三维重建\chess\chess14.bmp

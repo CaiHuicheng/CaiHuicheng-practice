@@ -1,0 +1,12 @@
+﻿  源.cpp
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\opencv_3_1_0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\my opencv projects\test\testcameracalibration_3\testcameracalibration\testcameracalibration\源.cpp(70): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\opencv\my opencv projects\test\testcameracalibration_3\testcameracalibration\testcameracalibration\源.cpp(112): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\opencv\my opencv projects\test\testcameracalibration_3\testcameracalibration\testcameracalibration\源.cpp(113): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\opencv\my opencv projects\test\testcameracalibration_3\testcameracalibration\testcameracalibration\源.cpp(185): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\opencv\my opencv projects\test\testcameracalibration_3\testcameracalibration\testcameracalibration\源.cpp(186): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  testCameraCalibration.vcxproj -> E:\opencv\My OpenCV projects\test\testCameraCalibration_3\testCameraCalibration\x64\Debug\testCameraCalibration.exe
+  testCameraCalibration.vcxproj -> E:\opencv\My OpenCV projects\test\testCameraCalibration_3\testCameraCalibration\x64\Debug\testCameraCalibration.pdb (Full PDB)
